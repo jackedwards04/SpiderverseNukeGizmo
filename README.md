@@ -1,5 +1,7 @@
-# SpiderverseNukeGizmo
+# Spiderverse Nuke Gizmo
 A free non-commercial gizmo for Nuke that provides a stylized look, based off of Spiderman: Into The Spiderverse. The gizmo features color shift and dotting tools, all fully customizable!
+
+This repo contains a sample render, a sample dots image, and the Non-Commercial ComicShift gizmo.
 
 # Usage
 The ComicShift gizmo can be imported into Nuke like any other gizmo. For more information, read:
